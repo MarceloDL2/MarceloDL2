@@ -1,5 +1,7 @@
 ## Hi there 👋
+---
 ![Banner](img/dragon_banner.jpg)
+---
 <!--
 **MarceloDL2/MarceloDL2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
