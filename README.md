@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 ![Banner](img/dragon_banner.jpg)
 ---
 <!--
