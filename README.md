@@ -5,11 +5,7 @@
 
 ![Banner](img/dragon_banner.jpg)
 
-<p align="center">
-  <a href="https://discord.gg/TU_INVITACION">
-    <img src="https://img.shields.io/badge/Join%20Us-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TU_INVITACION)
 
 
 About Me
