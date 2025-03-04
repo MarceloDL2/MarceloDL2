@@ -1,5 +1,14 @@
 
-##                              Hi there, I am Marcelo De León 👋
+##
+
+<div align="center">  
+   
+
+<h1> Hi there, I am Marcelo De León 👋</h1>
+
+</div>
+
+
 ![Banner](img/dragon_banner.jpg)
 
 About Me
