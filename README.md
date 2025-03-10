@@ -5,10 +5,12 @@
 
 ![Banner](img/dragon_banner.jpg)
 
+<p align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/66zeFNdQap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcelodeleon29/)
 
-
+</p>
 
 About Me
 ---
