@@ -15,7 +15,12 @@ I have knowledge of Python, Java, JavaScript, HTML, CSS, and PHP. I enjoy learni
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help <br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading manhwa and manga.
-- 📫 Reach out to me at: 
+- 📫 Reach out to me at:<br><br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelodeleon290200@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelodeleon29/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/66zeFNdQap)
+
+
 <h2>My Skills Include</h2>
 
 <h3>Languages</h3>
@@ -59,10 +64,5 @@ I have knowledge of Python, Java, JavaScript, HTML, CSS, and PHP. I enjoy learni
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelodeleon290200@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelodeleon29/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/66zeFNdQap)
 
 
