@@ -2,7 +2,7 @@
 <h1> Hi there, I am Marcelo De León</h1>
 </div>
 <p align="center">
-<img src="img/Marcelodl29-banner.png" style="width:auto; height:400px;">
+<img src="img/Marcelodl29-banner.png" style="width:auto; height:400px;" href="https://github.com/MarceloDL29">
 </p>
 <h2>About Me</h2>
 <p>
