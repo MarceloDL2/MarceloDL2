@@ -1,9 +1,9 @@
 <div align="center">  
 <h1> Hi there, I am Marcelo De León</h1>
 </div>
-
-![Banner](img/Marcelodl29-banner.png)
-
+<p align="center">
+<img src="img/Marcelodl29-banner.png" style="width:auto; height:400px;">
+</p>
 <h2>About Me</h2>
 <p>
 My name is Marcelo De León, and I am a web development student passionate about technology and sales. I have experience in customer service and technical support, and I am currently looking for a job in the IT field.
